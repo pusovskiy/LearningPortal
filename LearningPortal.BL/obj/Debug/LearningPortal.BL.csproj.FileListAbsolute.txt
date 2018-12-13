@@ -1,0 +1,17 @@
+C:\Users\X501A\source\repos\LearningPortal\LearningPortal.BL\bin\Debug\LearningPortal.BL.dll
+C:\Users\X501A\source\repos\LearningPortal\LearningPortal.BL\bin\Debug\LearningPortal.BL.pdb
+C:\Users\X501A\source\repos\LearningPortal\LearningPortal.BL\obj\Debug\LearningPortal.BL.csprojAssemblyReference.cache
+C:\Users\X501A\source\repos\LearningPortal\LearningPortal.BL\obj\Debug\LearningPortal.BL.csproj.CoreCompileInputs.cache
+C:\Users\X501A\source\repos\LearningPortal\LearningPortal.BL\obj\Debug\LearningPortal.BL.dll
+C:\Users\X501A\source\repos\LearningPortal\LearningPortal.BL\obj\Debug\LearningPortal.BL.pdb
+C:\Users\Yura\source\repos\LearningPortal\LearningPortal.BL\bin\Debug\LearningPortal.BL.dll
+C:\Users\Yura\source\repos\LearningPortal\LearningPortal.BL\bin\Debug\LearningPortal.BL.pdb
+C:\Users\Yura\source\repos\LearningPortal\LearningPortal.BL\bin\Debug\Common.dll
+C:\Users\Yura\source\repos\LearningPortal\LearningPortal.BL\bin\Debug\LearningPortal.Domain.dll
+C:\Users\Yura\source\repos\LearningPortal\LearningPortal.BL\bin\Debug\Common.pdb
+C:\Users\Yura\source\repos\LearningPortal\LearningPortal.BL\bin\Debug\LearningPortal.Domain.pdb
+C:\Users\Yura\source\repos\LearningPortal\LearningPortal.BL\obj\Debug\LearningPortal.BL.csprojResolveAssemblyReference.cache
+C:\Users\Yura\source\repos\LearningPortal\LearningPortal.BL\obj\Debug\LearningPortal.BL.csproj.CoreCompileInputs.cache
+C:\Users\Yura\source\repos\LearningPortal\LearningPortal.BL\obj\Debug\LearningPortal.BL.dll
+C:\Users\Yura\source\repos\LearningPortal\LearningPortal.BL\obj\Debug\LearningPortal.BL.pdb
+C:\Users\Yura\source\repos\LearningPortal\LearningPortal.BL\bin\Debug\LearningPortal.Domain.dll.config

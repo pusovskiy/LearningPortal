@@ -1,0 +1,6 @@
+C:\Users\Yura\source\repos\LearningPortal\Common\bin\Debug\Common.dll
+C:\Users\Yura\source\repos\LearningPortal\Common\bin\Debug\Common.pdb
+C:\Users\Yura\source\repos\LearningPortal\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Yura\source\repos\LearningPortal\Common\obj\Debug\Common.dll
+C:\Users\Yura\source\repos\LearningPortal\Common\obj\Debug\Common.pdb
+C:\Users\Yura\source\repos\LearningPortal\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

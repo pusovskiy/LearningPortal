@@ -1,0 +1,17 @@
+C:\Users\X501A\source\repos\LearningPortal\LearningProject.DI\obj\Debug\LearningProject.DI.csprojAssemblyReference.cache
+C:\Users\X501A\source\repos\LearningPortal\LearningProject.DI\obj\Debug\LearningProject.DI.csproj.CoreCompileInputs.cache
+C:\Users\Yura\source\repos\LearningPortal\LearningProject.DI\bin\Debug\LearningProject.DI.dll
+C:\Users\Yura\source\repos\LearningPortal\LearningProject.DI\bin\Debug\LearningProject.DI.pdb
+C:\Users\Yura\source\repos\LearningPortal\LearningProject.DI\bin\Debug\LearningPortal.BL.dll
+C:\Users\Yura\source\repos\LearningPortal\LearningProject.DI\bin\Debug\LearningPortal.Domain.dll
+C:\Users\Yura\source\repos\LearningPortal\LearningProject.DI\bin\Debug\StructureMap.dll
+C:\Users\Yura\source\repos\LearningPortal\LearningProject.DI\bin\Debug\StructureMap.Net4.dll
+C:\Users\Yura\source\repos\LearningPortal\LearningProject.DI\bin\Debug\LearningPortal.BL.pdb
+C:\Users\Yura\source\repos\LearningPortal\LearningProject.DI\bin\Debug\LearningPortal.Domain.pdb
+C:\Users\Yura\source\repos\LearningPortal\LearningProject.DI\bin\Debug\StructureMap.pdb
+C:\Users\Yura\source\repos\LearningPortal\LearningProject.DI\bin\Debug\StructureMap.xml
+C:\Users\Yura\source\repos\LearningPortal\LearningProject.DI\bin\Debug\StructureMap.Net4.pdb
+C:\Users\Yura\source\repos\LearningPortal\LearningProject.DI\obj\Debug\LearningProject.DI.csprojResolveAssemblyReference.cache
+C:\Users\Yura\source\repos\LearningPortal\LearningProject.DI\obj\Debug\LearningProject.DI.csproj.CoreCompileInputs.cache
+C:\Users\Yura\source\repos\LearningPortal\LearningProject.DI\obj\Debug\LearningProject.DI.dll
+C:\Users\Yura\source\repos\LearningPortal\LearningProject.DI\obj\Debug\LearningProject.DI.pdb
