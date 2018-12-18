@@ -10,6 +10,7 @@ namespace Common
     {
         public string LessonName { get; set; }
         public string Theory { get; set; }
+        public int CourseId { get; set; }
 
     }
 }

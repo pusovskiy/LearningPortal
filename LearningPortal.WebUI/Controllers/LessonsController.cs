@@ -10,18 +10,24 @@ namespace LearningPortal.WebUI.Controllers
 {
     public class LessonsController : Controller
     {
-        private readonly IRepositoryLesson repository;
+        private readonly ILessonRepository repository;
 
-        public LessonsController(IRepositoryLesson rep)
+        public LessonsController(ILessonRepository rep)
         {
             repository = rep;
         }
         // GET: Lessons
-        public ActionResult Index(int id=1)
+        public ActionResult GetLessonsByCourseId(int id=1)
         {
             
             List<Lesson> model = repository.GetLessonsByCourseID(id);
             return View(model);
         }
+
+        
+
+
     }
+
+
 }

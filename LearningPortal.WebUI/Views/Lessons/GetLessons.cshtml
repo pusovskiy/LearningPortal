@@ -1,0 +1,15 @@
+﻿@model List<Common.Lesson>
+
+@{
+    ViewBag.Title = "LessonPage";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Welcome to Lessons</h1>
+
+@foreach (var les in Model)
+{
+    <h2>@les.LessonName</h2>
+    <p>@les.Theory</p>
+}
+

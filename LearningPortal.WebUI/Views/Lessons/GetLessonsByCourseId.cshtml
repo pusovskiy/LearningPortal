@@ -1,0 +1,20 @@
+﻿
+@model IEnumerable<Common.Lesson>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+
+@foreach (var les in Model)
+{
+    <h3>@les.LessonName</h3>
+    <p>@les.Theory</p>
+
+    
+    @Html.ActionLink("Go to the course","GetLessonsByCourseID","Lessons",new{id=1},new{@class="btn btn-primary"})
+}
+

@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Common;
+using LearningPortal.BL.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,13 +10,24 @@ namespace LearningPortal.WebUI.Controllers
 {
     public class HomeController : Controller
     {
-        readonly log4net.ILog logger =
-                    log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
-        // GET: Home
-        public ActionResult Index()
+        private readonly log4net.ILog logger =
+            log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
+
+        private readonly ICategoryRepository repository;
+
+        public HomeController(ICategoryRepository rep)
         {
-            logger.Error("In index page-HAppy logging");
-            return View();
+            repository = rep;
+        }
+
+        public ActionResult Category()
+        {
+
+            List<Category> model = repository.GetCategoriesAndCourses();
+
+
+
+            return View(model);
         }
     }
 }

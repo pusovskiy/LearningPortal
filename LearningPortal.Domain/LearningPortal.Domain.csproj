@@ -41,8 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Implementations\DbContextLesson.cs" />
-    <Compile Include="Interfaces\IDbContextLesson.cs" />
+    <Compile Include="Implementations\CategoryContext.cs" />
+    <Compile Include="Implementations\DbContext.cs" />
+    <Compile Include="Implementations\LessonContext.cs" />
+    <Compile Include="Interfaces\ICategoryContext.cs" />
+    <Compile Include="Interfaces\ILessonContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

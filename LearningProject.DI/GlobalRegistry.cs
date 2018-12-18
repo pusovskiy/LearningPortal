@@ -10,8 +10,10 @@ namespace LearningPortal.DI
     {
         public GlobalRegistry()
         {
-            For<IDbContextLesson>().Use<DbContextLesson>();
-            For<IRepositoryLesson>().Use<RepositoryLesson>();
+            For<ILessonContext>().Use<LessonContext>();
+            For<ILessonRepository>().Use<LessonRepository>();
+            For<ICategoryContext>().Use<CategoryContext>();
+            For<ICategoryRepository>().Use<CategoryRepository>();
         }
     }
 }
